@@ -2,6 +2,8 @@
 
 Speed-dial for your ActiveRecords!  Set up shortcuts for commonly-accessed records so you can get them easily.
 
+Tired of typing `User.find_by_email("chris@arches.io")` to get your user?  Now you can get it directly with `User.chris`
+
 ## Installation
 
 ```
