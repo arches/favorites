@@ -1,6 +1,6 @@
 # Favorites - A Ruby Gem
 
-![travis badge](https://api.travis-ci.org/arches/favorites.svg?branch=master)
+[![Build Status](https://travis-ci.org/arches/favorites.svg?branch=master)](https://travis-ci.org/arches/favorites)
 
 Speed-dial for your ActiveRecords!  Set up shortcuts for commonly-accessed records so you can get them easily.
 
