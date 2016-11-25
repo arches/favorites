@@ -22,7 +22,7 @@ PLATFORMS
 
 DEPENDENCIES
   favorites!
-  rake (~> 11.3)
+  rake
   rspec (~> 2.11.0)
 
 BUNDLED WITH
