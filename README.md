@@ -6,17 +6,6 @@ Speed-dial for your ActiveRecords!  Set up shortcuts for commonly-accessed recor
 
 Tired of typing `User.find_by_email("chris@arches.io")` to get your user?  Now you can get it directly with `User.chris`
 
-## Installation
-
-```
-# Install as a standalone gem
-$ gem install table_print
-
-# Or install within rails
-In your Gemfile: gem "table_print"
-$ bundle install
-```
-
 ## Usage
 
 1. Include the library in your ActiveRecord class
